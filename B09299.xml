@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Lieutenant and Council. Ormonde. We cannot but call to mind that as the declaration set out and published by the late lords justices and council, bearing date the 30th. of April, 1662. did so far indulge those recusants, non-conformists and sectaries, who were misguided and did not conform to the laws of the land, concerning uniformity of common prayer and service in the church, and the administration of the sacraments ...</title>
+            <author>Ireland. Lord Lieutenant (1662-1669 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09299</idno>
+            <idno type="OCLC"> 80922936</idno>
+            <idno type="STC">Wing I669</idno>
+            <idno type="STC">ESTC R178724</idno>
+            <idno type="EEBO-CITATION">80922936</idno>
+            <idno type="OCLC">ocm 80922936</idno>
+            <idno type="VID">191900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191900)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2895:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Lieutenant and Council. Ormonde. We cannot but call to mind that as the declaration set out and published by the late lords justices and council, bearing date the 30th. of April, 1662. did so far indulge those recusants, non-conformists and sectaries, who were misguided and did not conform to the laws of the land, concerning uniformity of common prayer and service in the church, and the administration of the sacraments ...</title>
+                  <author>Ireland. Lord Lieutenant (1662-1669 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>Ireland. Parliament.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crooke ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at the council-chamber in Dublin the 29th. day of June, 1663."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  Religion --  17th century --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:191900:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>C<hi rend="sup">2</hi> R</head>
+                  <q xml:lang="fre">DIEV ET MON DROIT</q>
+                  <q xml:lang="fre">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>By the Lord Lieutenant and Council.</head>
+            <opener>
+               <signed>ORMONDE.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E cannot but call to mind that as the Declaration ſet out and publiſhed by the late Lords Juſtices and Council, bearing date the 30th. of <hi>April,</hi> 1662. did ſo far indulge thoſe Re<g ref="char:EOLhyphen"/>cuſants, Non-conformiſts and Sectaries, who were miſguided and did not conform to the Laws of the Land, concerning Uniformity of Common Prayer and Service in the Church, and the Adminiſtration of the Sacraments, that they were not to be further proceeded againſt for the Offences then paſt; ſo that Proclamation conteined alſo a pre<g ref="char:EOLhyphen"/>menition to them, that no perſon or perſons were for the time then to come to expect the like indulgence, and yet it is found that that extenſion of His Majeſties gracious cle<g ref="char:EOLhyphen"/>mency towards them, hath not wrought thoſe effects of Conformity in thoſe perſons, which that high favour from His Majeſty hath deſerved: And although His Majeſty might be thereby provoked, and that moſt-juſtly, to proceed againſt them with that ſtrict<g ref="char:EOLhyphen"/>neſs which is due to ſuch great contempts, not onely of His Laws, but alſo of His Cle<g ref="char:EOLhyphen"/>mency: Yet conſidering that we well know that ſuch is His Majeſties aboundant good<g ref="char:EOLhyphen"/>neſs and tenderneſs towards His Subjects, as he wiſhes rather that thoſe of them who are miſguided, may be won by gentleneſs, than by the ſtrict execution of His Laws: And conſidering alſo that We do believe that the rendring hitherto fruitleſs the hopes We had of their Conformity, proceeded rather from the ſeducement of others, than from evil in the mindes of the people themſelves, therefore as a means to preſerve the people front the danger of ſuch ſeducement, as We did formerly give Orders for ſuppreſſing unlawful Aſſemblies, ſo We have larely directed Our Letters into leberal parts of this Kingdome, to remove the perſons of ſome Miniſters, or pretended Miniſters, whereby they may not have ſuch opportunity as they have hitherto had to continue their evil practiſes in ſedu<g ref="char:EOLhyphen"/>ting too many of the People: And We conceiving that from thence may yet follow the deſired Conformity from them; and conſidering likewiſe, That We now find that ſome attempts have been made to draw into the late borried Conſpiracy for taking His Majeſties Caſtle of <hi>Dublin,</hi> ſome perſons that are as yet Non-conformiſts, and that they (agreeable to the duty and loyalty of good Subjects to His Majeſty) utterly declined any Conjunction in ſo Traiterous a Deſign, We therefore judge it fit once more to make a further trial if by any gentle ways or means the ſeduced people may be reclaimed; and to that end do hereby declare, That for the time paſt all Offences committed againſt His Majeſties ſaid Law of Uniformity of Common Prayer and Service in the Church, and the Adminiſtration of the Sacraments, ſhall be no further proceeded againſt before any His Majeſties Judges of Aſſize or Juſtices of the Peace, but that there be a ſtop put to all pro<g ref="char:EOLhyphen"/>ceedings and penalties for ſuch Offences for the ſaid time paſt.</p>
+            <pb facs="tcp:191900:2" rendition="simple:additions"/>
+            <p>
+               <pb facs="tcp:191900:3"/>
+And as We have taken this courſe to prevent any ſuch trouble or puniſhment to the people by Authority of the Tempo<g ref="char:EOLhyphen"/>ral Courts, ſo We are well aſſured that We need not give any directions to the Arch-Biſhops or Biſhops as to the Spiritu<g ref="char:EOLhyphen"/>al Courts in regard We are well ſatisfied that ſuch is the Piety and Moderation of the Arch-Biſhops and Biſhops, that they are willing and ready without looking back into the former Errors of any of the People, to receive and imbrace into the Boſome of the Church all ſuch of them as ſhall deſire to conform themſelves.</p>
+            <p>And We do further Declare, that after the 24th, day of December next, no perſon or perſons are to expect the like induſ<g ref="char:EOLhyphen"/>gence, but that all Judges of Aſſize and Juſtices of Peace, and all others concerned, are thenceforth to ſee the ſaid Law due<g ref="char:EOLhyphen"/>ly put in execution: Provided, That this indulgence extend not to any Miniſter, or pretended Miniſter, that ſhall go about to diſſwade the People from their Obedience to the ſaid Law: And of this Our Declaration We require all his Majeſties Judges, Juſtices of Peace, Sheriffs, and all other Officers whatſoever whom it may concern to take notice, and to take rare that any Writ or Proceſs iſſued for attaching any perſons for any the ſaid Offences paſt as aforeſaid, be not executed.</p>
+            <closer>
+               <dateline>Given at the Council-Chamber in <hi>Dublin</hi> 
+                  <date>the 29th. day of <hi>June,</hi> 1663.</date>
+               </dateline>
+GOD SAVE THE KING.
+<signed>
+                  <list>
+                     <item>Ja. Dublin.</item>
+                     <item>Mount-Alexander,</item>
+                     <item>Angleſey,</item>
+                     <item>Shannon,</item>
+                     <item>Hen. Midenſis,</item>
+                     <item>Fran. Aungier,</item>
+                     <item>R. Coot,</item>
+                     <item>Paul Davis,</item>
+                     <item>Fra. Hamilton,</item>
+                     <item>Rob. Forth,</item>
+                     <item>J. Byſſe,</item>
+                     <item>J. Temple,</item>
+                     <item>Ja. Ware,</item>
+                     <item>G. Wentworth,</item>
+                     <item>Rob. Meredith,</item>
+                     <item>Tho. Clarges,</item>
+                     <item>Edw. Maſſie,</item>
+                     <item>Tho. Pigott.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <head>DUBLIN,</head>
+            <p>Printed by <hi>John Crooke,</hi> Printer to the Kings moſt Excellent MAJESTY; and are to be ſold by <hi>Samuel Dancer</hi> next door to the Bear and Ragged-ſtaffe in <hi>Caſtle-ſtreet,</hi> 1663.</p>
+            <pb facs="tcp:191900:4" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
